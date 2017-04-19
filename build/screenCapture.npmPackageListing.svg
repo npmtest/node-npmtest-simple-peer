@@ -1,0 +1,18 @@
+<svg height="238" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="238" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 22:42:28 +0000   143000 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 22:42:28 +0000     1081 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 22:42:28 +0000    15769 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 22:42:28 +0000    22615 bytes  index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 22:42:28 +0000     3755 bytes  package.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 22:42:28 +0000    78875 bytes  simplepeer.min.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 22:42:28 +0000     4736 bytes  test/basic.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 22:42:28 +0000     3553 bytes  test/binary.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 22:42:28 +0000      852 bytes  test/common.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 22:42:28 +0000     4874 bytes  test/object-mode.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 22:42:28 +0000     2495 bytes  test/stream.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 22:42:28 +0000     4040 bytes  test/trickle.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 22:42:28 +0000      355 bytes  test/z-cleanup.js</tspan>
+</text>
+</svg>
