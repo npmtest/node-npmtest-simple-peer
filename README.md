@@ -1,6 +1,6 @@
 # npmtest-simple-peer
 
-#### basic test coverage for  [simple-peer (v8.1.0)](https://github.com/feross/simple-peer#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-simple-peer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-simple-peer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-simple-peer.svg)](https://travis-ci.org/npmtest/node-npmtest-simple-peer)
+#### basic test-coverage for  [simple-peer (v8.1.0)](https://github.com/feross/simple-peer#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-simple-peer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-simple-peer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-simple-peer.svg)](https://travis-ci.org/npmtest/node-npmtest-simple-peer)
 
 #### Simple one-to-one WebRTC video/voice and data channels
 
@@ -125,7 +125,8 @@
     "testling": {
         "files": "test/*.js"
     },
-    "version": "8.1.0"
+    "version": "8.1.0",
+    "bin": {}
 }
 ```
 
